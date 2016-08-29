@@ -2,13 +2,12 @@
 layout: post
 title: You're up and running!
 
-## HELLO 1
-Life is hard.
-
-## HELLO 2
-real hard.
-
 ---
+## HELLO1
+life is hard.
+
+## hello 2
+real hard.
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
