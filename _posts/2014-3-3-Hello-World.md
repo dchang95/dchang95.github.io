@@ -1,13 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1
 
 ---
-## HELLO1
+## Past Week
 life is hard.
 
-## hello 2
+## What's in my way?
 real hard.
+
+## Next Week
+yes
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
